@@ -1,0 +1,7 @@
+Phone1 $25 Monthly, $0 For Line Acess, $277.25 Owed now
+Phone2 $25 Monthly, $0 For Line Acess, $277.25 Owed now
+Phone3 $19.58 Monthly, $0 For Line Acess, $531.84 Owed now
+Phone4 $17.92 Monthly, $0 For Line Acess, $571.84 Owed now
+Phone5 $0 Monthly, $0 For Line Acess, $0 Owed now
+
+Total Monthly Owed is $87.5, Total Owned Now is $1658.18
